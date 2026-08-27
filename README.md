@@ -1,6 +1,6 @@
 # My Portfolio Website using Nextjs, Tailwind CSS and Framer-motion🌟
 
-[Nextjs Portfolio Website]([https://darling-cupcake-0b1da6.netlify.app/](https://william-sinclair.netlify.app))
+[Nextjs Portfolio Website](https://william-sinclair.netlify.app)
 
 ### Images of The Portfolio Website:
 
